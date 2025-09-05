@@ -44,6 +44,9 @@ const linkStyle: React.CSSProperties = {
   fontWeight: "bold",
   transition: "color 0.3s",
 };
-<Link href="/history">History</Link>
-<Link href="/wallet">Wallet</Link>
+<>
+  <Link href="/history">History</Link>
+  <Link href="/wallet">Wallet</Link>
+</>
+
 
